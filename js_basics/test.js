@@ -1,1 +1,2 @@
-console.log("Zarak")
+console.log("Zarak") 
+alert("Hey")
